@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/allinone.iml" filepath="$PROJECT_DIR$/allinone.iml" />
+      <module fileurl="file://$PROJECT_DIR$/base/base-1.0.0.iml" filepath="$PROJECT_DIR$/base/base-1.0.0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/business/business-1.0.0.iml" filepath="$PROJECT_DIR$/business/business-1.0.0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/base/common-utils/common-utils-1.0.0.iml" filepath="$PROJECT_DIR$/base/common-utils/common-utils-1.0.0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/base/iboot-web/iboot-web-1.0.0.iml" filepath="$PROJECT_DIR$/base/iboot-web/iboot-web-1.0.0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parent/parent-1.0.0.iml" filepath="$PROJECT_DIR$/parent/parent-1.0.0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/base/robotization/robotization-1.0.0.iml" filepath="$PROJECT_DIR$/base/robotization/robotization-1.0.0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/base/security-web/security-web-1.0.0.iml" filepath="$PROJECT_DIR$/base/security-web/security-web-1.0.0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/base/webdriver/webdriver-1.0.0.iml" filepath="$PROJECT_DIR$/base/webdriver/webdriver-1.0.0.iml" />
+    </modules>
+  </component>
+</project>
